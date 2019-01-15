@@ -17,6 +17,6 @@ int b=a;
 A obj=new A();
 obj.display();
 display();
-system.out.println(" new Hello world ");
+system.out.println(" new created Hello world ");
 }
 }
